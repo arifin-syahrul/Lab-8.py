@@ -84,8 +84,6 @@
 
 ## D. Menampilkan Program dan penjelasan Yang telah dibuat menggunakan program penggunaan "Class"
 
-![Program Lab 8 py](https://github.com/user-attachments/assets/099ea4d3-2559-4608-be99-dcf1d586a8b6)
-
     ```python
     
     class Mahasiswa:
